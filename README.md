@@ -20,7 +20,7 @@ This implementation aims to provide a readily usable and up-to-date CLA implemen
 You can install the package using pip:
 
 ```python
-from cla_portfolio_optimization import CLA
+from cla_implement import CLA
 ```
 
 ## Quick Start Demo (main.ipynb)
