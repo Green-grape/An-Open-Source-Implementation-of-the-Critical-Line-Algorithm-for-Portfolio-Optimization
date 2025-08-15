@@ -6,7 +6,7 @@
 
 This repository provides a Python implementation of the Critical Line Algorithm (CLA) for portfolio optimization, as described in the paper:
 
-> David H. Bailey, Marcos López de Prado. *An Open-Source Implementation of the Critical-Line Algorithm for Portfolio Optimization*.
+[David H. Bailey, Marcos López de Prado. *An Open-Source Implementation of the Critical-Line Algorithm for Portfolio Optimization*.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2197616)
 
 While the original paper includes code, this implementation addresses the following:
 
