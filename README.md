@@ -96,9 +96,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 > Juho Kim - [juho13729@gmail.com](juho13729@gmail.com)
 
 ## Environment & Dependency
-python 3.11.13
-numpy 2.3.2
-pandas 2.3.1
-scipy 1.16.1
-matplotlib
+python 3.11.13, numpy 2.3.2, pandas 2.3.1, scipy 1.16.1, matplotlib 3.10.5
 
