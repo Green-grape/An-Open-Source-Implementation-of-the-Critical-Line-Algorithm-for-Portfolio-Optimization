@@ -262,9 +262,7 @@ class CLA:
                         self.weights[-1][asset_idx],
                     )
                     if max_lambda_out is None or (
-                        lam is not None
-                        and lam > (max_lambda_out + 1e-12)
-                        and lam < self.lambdas[-1]
+                        lam is not None and lam > (max_lambda_out + 1e-12)
                     ):
                         max_lambda_out = lam
                         max_lambda_asset_idx_out = asset_idx
